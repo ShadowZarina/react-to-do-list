@@ -10,9 +10,10 @@ React
 ## The Process
 - 
 
-🚦 Running the Project
+## Running the Project
 1. Clone the repository
 2. Install dependencies: npm install
 3. Run development server: npm run dev
 4. Open http://localhost:3000 in your browser
-🎞️ Preview
+
+## Preview
