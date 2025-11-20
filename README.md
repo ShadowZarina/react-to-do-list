@@ -5,10 +5,14 @@ A React project featuring a To-Do List with editable button and text colors, cha
 React
 
 ## Features
-- 
+- To-do list
+- Color and background changer
+- Lofi music player
 
 ## The Process
-- 
+1. Brainstorming
+2. Creating the React files
+3. Implementation
 
 ## Running the Project
 1. Clone the repository
